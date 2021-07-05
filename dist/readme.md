@@ -1,45 +1,37 @@
-# README-generator
 
-## Badges
+# readme-generator
 
+## Badges 
 ![ISC](https://img.shields.io/badge/license-ISC-success)
 
 ## Description
-
-This is an application used to create a readme.md for the user using a series of prompts.
-
-## Tools
-
-- JavaScript : Used to write the functions.
-- Inquirer : Used to get the files to help create the application.
-- NPM : An online repository for publishing of open-source Node.js projects.
+creates a readme for user through a series of prompts
 
 ## Table of Contents
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Credits](#credits)
+ - [License](#license)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-After the application has been downloaded/copied, in your terminal you want to type in "npm install inquirer" to get the files to get started.
+## Installation 
+in terminal "npm install inquirer" after the application has been downloaded/copied
 
 ## Usage
-
-Helps user to create a readme with ease!
+creating a readme for user with ease
 
 ## Test
+node [filename]
 
-After installing Inquirer, you run "node [filename]" to initiate the application.
+## Credits 
+n/a
 
-## Sample readme
+## How to contribute:
+n/a
 
-[Sample generated README.md](./dist/readme.md)
 
 ## License
 
-### ISC License
+    ### ISC License
 
 Copyright (c) 2021, Dyravuth Yorn
 
@@ -54,3 +46,8 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+    
+## Questions
+For any questions please contact me at:
+dyravuthyorn@gmail.com
+  
