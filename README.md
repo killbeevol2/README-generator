@@ -33,6 +33,10 @@ Helps user to create a readme with ease!
 
 After installing Inquirer, you run "node [filename]" to initiate the application.
 
+## Sample readme
+
+[Sample generated README.md]("./src/readme.js)
+
 ## License
 
 ### ISC License
