@@ -19,6 +19,7 @@ This is an application used to create a readme.md for the user using a series of
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Walkthrough](#walkthrough)
 - [License](#license)
 
 ## Installation
@@ -29,9 +30,17 @@ After the application has been downloaded/copied, in your terminal you want to t
 
 Helps user to create a readme with ease!
 
+## Credits
+
+NPM website and contributors who made the app possible!
+
 ## Test
 
 After installing Inquirer, you run "node [filename]" to initiate the application.
+
+## Walkthrough
+
+[Walkthrough](https://drive.google.com/file/d/1EiuFWsR0JNNu7xaPIPuKdoPnHN8NBFsQ/view)
 
 ## Sample readme
 

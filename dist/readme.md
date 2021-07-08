@@ -1,11 +1,11 @@
 
-# readme-generator
+# README-generator
 
 ## Badges 
 ![ISC](https://img.shields.io/badge/license-ISC-success)
 
 ## Description
-creates a readme for user through a series of prompts
+creating a readme.md for user
 
 ## Table of Contents
  - [Installation](#installation)
@@ -14,13 +14,13 @@ creates a readme for user through a series of prompts
  - [License](#license)
 
 ## Installation 
-in terminal "npm install inquirer" after the application has been downloaded/copied
+npm install inquirer
 
 ## Usage
-creating a readme for user with ease
+to create a readme.md for user with ease
 
 ## Test
-node [filename]
+n/a
 
 ## Credits 
 n/a
